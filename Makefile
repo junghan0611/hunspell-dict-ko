@@ -8,7 +8,7 @@ CLEANFILES := $(KO_AFF) $(KO_DIC)
 
 SOURCES := make-aff-dic.py config.py suffix.py suffixdata.py jamo.py	\
 	flags.py aff.py josa.py template.aff
-DICT_DATA = dict-ko-builtins.yaml dict-ko-data.yaml
+DICT_DATA = dict-ko-builtins.yaml dict-ko-data.yaml dict-ko-mydata.yaml
 
 DISTDIR := dist
 
