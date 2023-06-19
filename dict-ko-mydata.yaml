@@ -1,1 +1,32 @@
-/home/junghan/.spacemacs.d/dict-ko-mydata.yaml
+# ~/.huspell_personal 이 필요 없다. 그건 미봉책이다. 여기에 넣고 사전 빌드가 최고!
+# 간단하게 여기에 엔트리를 넣는 함수를 하나 만들어 넣으면 된다.
+# company-correct 에서 추가하면 여기 엔트리로 저장되면 더 좋을 일이다.
+entries:
+  - pos: 명사
+    word: 김정한
+  - pos: 명사
+    word: 팔달산
+  - pos: 명사
+    word: 클로저
+  - pos: 명사
+    word: VSCode
+  - pos: 명사
+    word: VSpaceCode
+  - pos: 명사
+    word: 빨간색
+  - pos: 명사
+    word: 에고
+  - pos: 명사
+    word: 바론
+  - pos: 명사
+    word: 워크플로우
+  - pos: 명사
+    word: 어젠다
+  - pos: 명사
+    word: 제텔카스텐
+  - pos: 명사
+    word: 옵시디언
+  - pos: 명사
+    word: 딥워크
+  - pos: 명사
+    word: 편안전활
